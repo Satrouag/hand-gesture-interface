@@ -35,8 +35,8 @@ You can open the folder and double-click on setup.bat
    git clone https://github.com/yourusername/hand-gesture-interface.git
    cd hand-gesture-interface
 3. **Create a virtual enviornment**:
-   "PATH to were your python 3.11 file is located" -m venv venv311
-   eg:
+   - "PATH to were your python 3.11 file is located" -m venv venv311
+   - eg:
    ```cmd
    "C:\Programs\Python\Python311\python.exe" -m venv venv311
    local_setup.bat 
