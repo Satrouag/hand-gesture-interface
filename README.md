@@ -10,8 +10,8 @@ This project replaces traditional input methods with hand gestures detected via 
 - **Python 3.11**: Required for compatibility.
 
 ## Setup Instructions
-Choose one of the setup methods below based on your preference.
-**(OPTION 1)**
+Choose one of the setup methods below based on your preference:
+###**(OPTION 1): To install Python 3.11 globally**
 1. **Install Python 3.11 (Python 3.11 Added to PATH)**:
    - Download from [python.org/downloads/release/python-3119/](https://www.python.org/downloads/release/python-3119/) (Windows installer, 64-bit).
    - Check “Add Python 3.11 to PATH” during installation.
@@ -25,7 +25,7 @@ Choose one of the setup methods below based on your preference.
 **OR**:
 You can open the folder and double-click on setup.bat
 
-**(OPTION 2)**
+**(OPTION 2): Install Python 3.11 and setup a virtual environment of this version**
 1. **Install Python 3.11**:
    - Download from [python.org/downloads/release/python-3119/](https://www.python.org/downloads/release/python-3119/) (Windows installer, 64-bit).
    - UNCHECK “Add Python 3.11 to PATH” during installation.
